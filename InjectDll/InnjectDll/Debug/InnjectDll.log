@@ -1,0 +1,41 @@
+﻿  dllmain.cpp
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(113,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(151,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(268,1): warning C4190: “make”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+E:\Visual Studio Community 2019\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(284,1): warning C4190: “nnew”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::string,std::allocator<std::string>>”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\json.hpp(13147): message : 参见“std::vector<std::string,std::allocator<std::string>>”的声明
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(888,28): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(943,28): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1249,28): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“PLONG”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1497,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1503,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“const LPSECURITY_ATTRIBUTES”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1504,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PHKEY”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1505,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1551,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1555,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PHKEY”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1598,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1602,29): warning C4477: “sprintf_s”: 格式字符串“%ws”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const BYTE *”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1602,29): message : 请考虑在格式字符串中使用“%hs”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1602,29): message : 请考虑在格式字符串中使用“%s”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1602,29): message : 请考虑在格式字符串中使用“%Ts”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1650,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1652,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1653,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1654,29): warning C4477: “sprintf_s”: 格式字符串“%ws”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“LPBYTE”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1654,29): message : 请考虑在格式字符串中使用“%hs”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1654,29): message : 请考虑在格式字符串中使用“%s”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1654,29): message : 请考虑在格式字符串中使用“%Ts”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1655,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1686,26): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1731,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1757,26): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1791,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1819,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1821,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1922,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“const sockaddr *”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(1960,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“const char *”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(2003,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“const sockaddr *”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(2052,29): warning C4477: “sprintf_s”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+E:\Codes\SoftwareSecurity\InjectDll\InnjectDll\dllmain.cpp(262): warning C4172: 返回局部变量或临时变量的地址: ans
+  InnjectDll.vcxproj -> E:\Codes\SoftwareSecurity\InjectDll\Debug\InjectDll.dll

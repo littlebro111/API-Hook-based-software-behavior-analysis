@@ -1,0 +1,109 @@
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\Windows\\Fonts\\staticcache.dat","lpSecurityAttributes":"00000000"},"time":"2021-10-7 15: 10: 007","type":"CreateFile"}
+{"arg":{"hfile":"000001B0","lpBuffer":"00EFD2C8","lpNumberOfBytesRead":"15717060","lpOverlapped":"00000000","nNumberOfBytesToRead":"60"},"time":"2021-10-7 15: 10: 007","type":"ReadFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\Globalization\\Sorting\\sortdefault.nls","lpSecurityAttributes":"00000000"},"time":"2021-10-7 15: 10: 007","type":"CreateFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\Windows\\Fonts\\staticcache.dat","lpSecurityAttributes":"00000000"},"time":"2021-10-7 15: 17: 033","type":"CreateFile"}
+{"arg":{"hfile":"000001B4","lpBuffer":"012FCF88","lpNumberOfBytesRead":"19910532","lpOverlapped":"00000000","nNumberOfBytesToRead":"60"},"time":"2021-10-7 15: 17: 033","type":"ReadFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\Globalization\\Sorting\\sortdefault.nls","lpSecurityAttributes":"00000000"},"time":"2021-10-7 15: 17: 033","type":"CreateFile"}
+{"arg":{"HANDLE":"05A80000","dwInitialSize":"00004000","dwMaximumSize":"00008000","fIOoptions":"00000001"},"time":"2021-10-7 15:17:37:291","type":"HeapCreate"}
+{"args":{"dwFlags":"00000001","hHeap":"05A80000","lpMem":"0000FFFF"},"time":"2021-10-7 15:17:37:291","type":"HeapAlloc"}
+{"args":{"dwFlags":"00000001","hHeap":"05A80000","lpMem":"00000000"},"time":"2021-10-7 15:17:37:310","type":"HeapFree"}
+{"args":{"dwFlags":"00000001","hHeap":"05A80000","lpMem":"00000000"},"time":"2021-10-7 15:17:37:325","type":"HeapFree"}
+{"arg":{"HANDLE":"05A80000"},"time":"2021-10-7 15:17:37:341","type":"HeapDestroy"}
+{"arg":{"LpText":"MessageBoxA Test","hWnd":"00000000","lpCaption":"Test","uType":"00000000"},"time":"2021-10-7 15:32:08:299","type":"MessageBoxA"}
+{"arg":{"HANDLE":"01720000","dwInitialSize":"00004000","dwMaximumSize":"00008000","fIOoptions":"00000001"},"time":"2021-10-7 15:35:53:563","type":"HeapCreate"}
+{"args":{"dwFlags":"00000001","hHeap":"01720000","lpMem":"0000FFFF"},"time":"2021-10-7 15:35:53:563","type":"HeapAlloc"}
+{"args":{"dwFlags":"00000001","hHeap":"01720000","lpMem":"00000000"},"time":"2021-10-7 15:35:53:583","type":"HeapFree"}
+{"args":{"dwFlags":"00000001","hHeap":"01720000","lpMem":"00000000"},"time":"2021-10-7 15:35:53:599","type":"HeapFree"}
+{"arg":{"HANDLE":"01720000"},"time":"2021-10-7 15:35:53:615","type":"HeapDestroy"}
+{"arg":{"Reserved":"00000000","dwOption":"00000000","hKey":"80000001","lpClass":"(null)","lpSecurityAttributes":"00000000","lpSubKey":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run","lpdwDisposition":"012FF54C","phkResult":"012FF548","samDesired":"000F003F"},"time":"2021-10-7 43: 47: 221","type":"RegCreateKeyEx"}
+{"arg":{"Reserved":"00000000","cbData":"00000104","dwType":"00000001","hKey":"000002B4","lpData":"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe","lpValueName":"SelfRunTest"},"time":"2021-10-7 43: 47: 221","type":"RegSetValueEx"}
+{"arg":{"hKey":"000002B4"},"time":"2021-10-7 43: 47: 227","type":"RegCloseKey"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\SYSTEM32\\MFC140CHS.DLL","lpSecurityAttributes":"00000000"},"time":"2021-10-7 15: 45: 022","type":"CreateFile"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer","phkResult":"0053FAE0","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-7 45: 22: 017","type":"RegOpenKeyEx"}
+{"arg":{"hKey":"000001BC","lpData":"","lpReserved":"00000000","lpType":"0053FAD8","lpValueName":"NoRun","lpcbData":"0053FAD4"},"time":"2021-10-7 45: 22: 017","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001BC","lpData":"","lpReserved":"00000000","lpType":"0053FAD8","lpValueName":"NoDrives","lpcbData":"0053FAD4"},"time":"2021-10-7 45: 22: 017","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001BC","lpData":"","lpReserved":"00000000","lpType":"0053FAD8","lpValueName":"RestrictRun","lpcbData":"0053FAD4"},"time":"2021-10-7 45: 22: 017","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001BC","lpData":"","lpReserved":"00000000","lpType":"0053FAD8","lpValueName":"NoNetConnectDisconnect","lpcbData":"0053FAD4"},"time":"2021-10-7 45: 22: 017","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001BC","lpData":"","lpReserved":"00000000","lpType":"0053FAD8","lpValueName":"NoRecentDocsHistory","lpcbData":"0053FAD4"},"time":"2021-10-7 45: 22: 018","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001BC","lpData":"","lpReserved":"00000000","lpType":"0053FAD8","lpValueName":"NoClose","lpcbData":"0053FAD4"},"time":"2021-10-7 45: 22: 018","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001BC"},"time":"2021-10-7 45: 22: 018","type":"RegCloseKey"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Network","phkResult":"0053FAE0","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-7 45: 22: 018","type":"RegOpenKeyEx"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Comdlg32","phkResult":"0053FAE0","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-7 45: 22: 018","type":"RegOpenKeyEx"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\Globalization\\Sorting\\sortdefault.nls","lpSecurityAttributes":"00000000"},"time":"2021-10-7 15: 45: 022","type":"CreateFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\Windows\\Fonts\\staticcache.dat","lpSecurityAttributes":"00000000"},"time":"2021-10-7 15: 45: 022","type":"CreateFile"}
+{"arg":{"hfile":"000002E4","lpBuffer":"0053D808","lpNumberOfBytesRead":"5494788","lpOverlapped":"00000000","nNumberOfBytesToRead":"60"},"time":"2021-10-7 15: 45: 022","type":"ReadFile"}
+{"arg":{"af":"00000002","protocol":"00000000","type":"00000001"},"time":"2021-10-7 45: 41: 359","type":"socket"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"0","dwFlagsAndAttributes":"1073741824","dwShareMode":"3","hTemplateFile":"00000000","lpFileName":"\\\\.\\Nsi","lpSecurityAttributes":"00000000"},"time":"2021-10-7 15: 45: 042","type":"CreateFile"}
+{"arg":{"IP":"182.61.200.6","name":"00767570","namelen":"00000010","port":"80","s":"000002A0"},"time":"2021-10-7 15:45:42:467","type":"Connect"}
+{"arg":{"buf":"0053F178","data":"GET / HTTP/1.1\r\nHost: www.baidu.com\r\nConnection: Close\r\n\r\n","flags":"00000000","len":"0000003B","s":"000002A0"},"time":"2021-10-7 15:45:43:751","type":"Send"}
+{"arg":{"buf":"00913B68","flags":"00000000","len":"00004E20","sock":"000002A0"},"time":"2021-10-7 45: 44: 943","type":"Receive"}
+{"arg":{"buf":"00913B68","flags":"00000000","len":"00004E20","sock":"000002A0"},"time":"2021-10-7 45: 44: 947","type":"Receive"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\SYSTEM32\\MFC140CHS.DLL","lpSecurityAttributes":"00000000"},"time":"2021-10-7 16: 23: 023","type":"CreateFile"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer","phkResult":"00D3FD34","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-7 23: 23: 203","type":"RegOpenKeyEx"}
+{"arg":{"hKey":"000001D0","lpData":"","lpReserved":"00000000","lpType":"00D3FD10","lpValueName":"NoRun","lpcbData":"00D3FD1C"},"time":"2021-10-7 23: 23: 203","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D0","lpData":"","lpReserved":"00000000","lpType":"00D3FD10","lpValueName":"NoDrives","lpcbData":"00D3FD1C"},"time":"2021-10-7 23: 23: 203","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D0","lpData":"","lpReserved":"00000000","lpType":"00D3FD10","lpValueName":"RestrictRun","lpcbData":"00D3FD1C"},"time":"2021-10-7 23: 23: 203","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D0","lpData":"","lpReserved":"00000000","lpType":"00D3FD10","lpValueName":"NoNetConnectDisconnect","lpcbData":"00D3FD1C"},"time":"2021-10-7 23: 23: 203","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D0","lpData":"","lpReserved":"00000000","lpType":"00D3FD10","lpValueName":"NoRecentDocsHistory","lpcbData":"00D3FD1C"},"time":"2021-10-7 23: 23: 203","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D0","lpData":"","lpReserved":"00000000","lpType":"00D3FD10","lpValueName":"NoClose","lpcbData":"00D3FD1C"},"time":"2021-10-7 23: 23: 203","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D0"},"time":"2021-10-7 23: 23: 203","type":"RegCloseKey"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Network","phkResult":"00D3FD34","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-7 23: 23: 203","type":"RegOpenKeyEx"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Comdlg32","phkResult":"00D3FD34","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-7 23: 23: 203","type":"RegOpenKeyEx"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\Globalization\\Sorting\\sortdefault.nls","lpSecurityAttributes":"00000000"},"time":"2021-10-7 16: 23: 023","type":"CreateFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\Windows\\Fonts\\staticcache.dat","lpSecurityAttributes":"00000000"},"time":"2021-10-7 16: 23: 023","type":"CreateFile"}
+{"arg":{"hfile":"000002CC","lpBuffer":"00D3D808","lpNumberOfBytesRead":"13883396","lpOverlapped":"00000000","nNumberOfBytesToRead":"60"},"time":"2021-10-7 16: 23: 023","type":"ReadFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"D://ceshi//1.txt","lpSecurityAttributes":"00000000"},"time":"2021-10-7 16: 24: 043","type":"CreateFile"}
+{"arg":{"hfile":"000002D8","lpBuffer":"00EF92D0","lpNumberOfBytesRead":"13888460","lpOverlapped":"00000000","nNumberOfBytesToRead":"0"},"time":"2021-10-7 16: 24: 043","type":"ReadFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\Windows\\Fonts\\staticcache.dat","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 31: 041","type":"CreateFile"}
+{"arg":{"hfile":"000001B0","lpBuffer":"008FD3C8","lpNumberOfBytesRead":"9425860","lpOverlapped":"00000000","nNumberOfBytesToRead":"60"},"time":"2021-10-9 22: 31: 041","type":"ReadFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\Globalization\\Sorting\\sortdefault.nls","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 31: 041","type":"CreateFile"}
+{"arg":{"HANDLE":"02A10000","dwInitialSize":"00004000","dwMaximumSize":"00008000","fIOoptions":"00000001"},"time":"2021-10-9 22:31:50:656","type":"HeapCreate"}
+{"args":{"dwFlags":"00000001","hHeap":"02A10000","lpMem":"0000FFFF"},"time":"2021-10-9 22:31:50:656","type":"HeapAlloc"}
+{"args":{"dwFlags":"00000001","hHeap":"02A10000","lpMem":"00000000"},"time":"2021-10-9 22:31:50:677","type":"HeapFree"}
+{"args":{"dwFlags":"00000001","hHeap":"02A10000","lpMem":"00000000"},"time":"2021-10-9 22:31:50:692","type":"HeapFree"}
+{"arg":{"HANDLE":"02A10000"},"time":"2021-10-9 22:31:50:707","type":"HeapDestroy"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\Windows\\Fonts\\staticcache.dat","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 33: 002","type":"CreateFile"}
+{"arg":{"hfile":"000001BC","lpBuffer":"004FD088","lpNumberOfBytesRead":"5230724","lpOverlapped":"00000000","nNumberOfBytesToRead":"60"},"time":"2021-10-9 22: 33: 002","type":"ReadFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\Globalization\\Sorting\\sortdefault.nls","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 33: 002","type":"CreateFile"}
+{"arg":{"Reserved":"00000000","dwOption":"00000000","hKey":"80000001","lpClass":"(null)","lpSecurityAttributes":"00000000","lpSubKey":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run","lpdwDisposition":"004FF634","phkResult":"004FF630","samDesired":"000F003F"},"time":"2021-10-9 33: 06: 310","type":"RegCreateKeyEx"}
+{"arg":{"Reserved":"00000000","cbData":"00000104","dwType":"00000001","hKey":"000002B4","lpData":"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe","lpValueName":"SelfRunTest"},"time":"2021-10-9 33: 06: 310","type":"RegSetValueEx"}
+{"arg":{"hKey":"000002B4"},"time":"2021-10-9 33: 06: 322","type":"RegCloseKey"}
+{"arg":{"hKey":"80000001","lpSubKey":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System","phkResult":"004FF630","samDesired":"000F003F","ulOptions":"00000000"},"time":"2021-10-9 33: 36: 460","type":"RegOpenKeyEx"}
+{"arg":{"Reserved":"00000000","cbData":"00000004","dwType":"00000004","hKey":"00000000","lpData":"\u0001","lpValueName":"DisableTaskMgr"},"time":"2021-10-9 33: 36: 461","type":"RegSetValueEx"}
+{"arg":{"hKey":"00000000"},"time":"2021-10-9 33: 36: 461","type":"RegCloseKey"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\SYSTEM32\\MFC140CHS.DLL","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 34: 019","type":"CreateFile"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer","phkResult":"00B3FB0C","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-9 34: 19: 108","type":"RegOpenKeyEx"}
+{"arg":{"hKey":"000001F4","lpData":"","lpReserved":"00000000","lpType":"00B3FB04","lpValueName":"NoRun","lpcbData":"00B3FB00"},"time":"2021-10-9 34: 19: 109","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001F4","lpData":"","lpReserved":"00000000","lpType":"00B3FB04","lpValueName":"NoDrives","lpcbData":"00B3FB00"},"time":"2021-10-9 34: 19: 109","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001F4","lpData":"","lpReserved":"00000000","lpType":"00B3FB04","lpValueName":"RestrictRun","lpcbData":"00B3FB00"},"time":"2021-10-9 34: 19: 109","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001F4","lpData":"","lpReserved":"00000000","lpType":"00B3FB04","lpValueName":"NoNetConnectDisconnect","lpcbData":"00B3FB00"},"time":"2021-10-9 34: 19: 109","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001F4","lpData":"","lpReserved":"00000000","lpType":"00B3FB04","lpValueName":"NoRecentDocsHistory","lpcbData":"00B3FB00"},"time":"2021-10-9 34: 19: 109","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001F4","lpData":"","lpReserved":"00000000","lpType":"00B3FB04","lpValueName":"NoClose","lpcbData":"00B3FB00"},"time":"2021-10-9 34: 19: 109","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001F4"},"time":"2021-10-9 34: 19: 109","type":"RegCloseKey"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Network","phkResult":"00B3FB0C","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-9 34: 19: 109","type":"RegOpenKeyEx"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Comdlg32","phkResult":"00B3FB0C","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-9 34: 19: 109","type":"RegOpenKeyEx"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\Globalization\\Sorting\\sortdefault.nls","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 34: 019","type":"CreateFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\Windows\\Fonts\\staticcache.dat","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 34: 019","type":"CreateFile"}
+{"arg":{"hfile":"000002C4","lpBuffer":"00B3D808","lpNumberOfBytesRead":"11786244","lpOverlapped":"00000000","nNumberOfBytesToRead":"60"},"time":"2021-10-9 22: 34: 019","type":"ReadFile"}
+{"arg":{"af":"00000002","protocol":"00000000","type":"00000001"},"time":"2021-10-9 34: 22: 305","type":"socket"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"0","dwFlagsAndAttributes":"1073741824","dwShareMode":"3","hTemplateFile":"00000000","lpFileName":"\\\\.\\Nsi","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 35: 005","type":"CreateFile"}
+{"arg":{"IP":"182.61.200.6","name":"00587570","namelen":"00000010","port":"80","s":"000002D4"},"time":"2021-10-9 22:35:05:460","type":"Connect"}
+{"arg":{"buf":"00B3F1A0","data":"GET / HTTP/1.1\r\nHost: www.baidu.com\r\nConnection: Close\r\n\r\n","flags":"00000000","len":"0000003B","s":"000002D4"},"time":"2021-10-9 22:35:19:618","type":"Send"}
+{"arg":{"buf":"00D62E78","flags":"00000000","len":"00004E20","sock":"000002D4"},"time":"2021-10-9 35: 38: 529","type":"Receive"}
+{"arg":{"buf":"00D62E78","flags":"00000000","len":"00004E20","sock":"000002D4"},"time":"2021-10-9 35: 38: 531","type":"Receive"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\SYSTEM32\\MFC140CHS.DLL","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 37: 007","type":"CreateFile"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer","phkResult":"008FFB10","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-9 37: 07: 365","type":"RegOpenKeyEx"}
+{"arg":{"hKey":"000001D8","lpData":"","lpReserved":"00000000","lpType":"008FFAEC","lpValueName":"NoRun","lpcbData":"008FFAF8"},"time":"2021-10-9 37: 07: 365","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D8","lpData":"","lpReserved":"00000000","lpType":"008FFAEC","lpValueName":"NoDrives","lpcbData":"008FFAF8"},"time":"2021-10-9 37: 07: 365","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D8","lpData":"","lpReserved":"00000000","lpType":"008FFAEC","lpValueName":"RestrictRun","lpcbData":"008FFAF8"},"time":"2021-10-9 37: 07: 365","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D8","lpData":"","lpReserved":"00000000","lpType":"008FFAEC","lpValueName":"NoNetConnectDisconnect","lpcbData":"008FFAF8"},"time":"2021-10-9 37: 07: 365","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D8","lpData":"","lpReserved":"00000000","lpType":"008FFAEC","lpValueName":"NoRecentDocsHistory","lpcbData":"008FFAF8"},"time":"2021-10-9 37: 07: 365","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D8","lpData":"","lpReserved":"00000000","lpType":"008FFAEC","lpValueName":"NoClose","lpcbData":"008FFAF8"},"time":"2021-10-9 37: 07: 365","type":"RegQueryValueEx"}
+{"arg":{"hKey":"000001D8"},"time":"2021-10-9 37: 07: 365","type":"RegCloseKey"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Network","phkResult":"008FFB10","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-9 37: 07: 365","type":"RegOpenKeyEx"}
+{"arg":{"hKey":"80000001","lpSubKey":"Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Comdlg32","phkResult":"008FFB10","samDesired":"00000001","ulOptions":"00000000"},"time":"2021-10-9 37: 07: 365","type":"RegOpenKeyEx"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"C:\\WINDOWS\\Globalization\\Sorting\\sortdefault.nls","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 37: 007","type":"CreateFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"0","dwShareMode":"5","hTemplateFile":"00000000","lpFileName":"C:\\Windows\\Fonts\\staticcache.dat","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 37: 007","type":"CreateFile"}
+{"arg":{"hfile":"000002BC","lpBuffer":"008FD5C8","lpNumberOfBytesRead":"9426372","lpOverlapped":"00000000","nNumberOfBytesToRead":"60"},"time":"2021-10-9 22: 37: 007","type":"ReadFile"}
+{"arg":{"dwCreationDisposition":"3","dwDesiredAccess":"-2147483648","dwFlagsAndAttributes":"128","dwShareMode":"1","hTemplateFile":"00000000","lpFileName":"D://ceshi//1.txt","lpSecurityAttributes":"00000000"},"time":"2021-10-9 22: 37: 010","type":"CreateFile"}
+{"arg":{"hfile":"000002D4","lpBuffer":"00BD7F28","lpNumberOfBytesRead":"9431460","lpOverlapped":"00000000","nNumberOfBytesToRead":"0"},"time":"2021-10-9 22: 37: 010","type":"ReadFile"}
